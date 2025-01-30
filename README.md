@@ -1,1 +1,3 @@
 # xpbd
+TODO:
+solving contact
