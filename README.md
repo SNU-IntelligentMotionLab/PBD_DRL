@@ -8,3 +8,13 @@ Position-Based Dynamics Simulator and Deep Reinforcement Learning
     distribute contact force to both vertics
 
 3. box hinge joint constraint, what constraint w.r.t vertices.
+
+
+
+1. draw box 
+2. code overview + gravity
+3. distance constraint + attach constraint : make rigid 
+4. plane + collision
+5. (body - body collision)
+6. make character
+joint constraints
