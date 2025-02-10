@@ -8,7 +8,7 @@ Position-Based Dynamics Simulator and Deep Reinforcement Learning
     distribute contact force to both vertics
 
 3. box hinge joint constraint, what constraint w.r.t vertices.
-
+4. remove dynamic/static object class , and replace it with is_static flag
 
 
 1. draw box 
